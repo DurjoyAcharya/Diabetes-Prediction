@@ -1,0 +1,1 @@
+Diabetes is a chronic medical condition that affects millions of people worldwide. Early detection and management of diabetes are crucial for preventing complications and improving the quality of life for individuals with the condition. Machine Learning (ML) techniques can play a significant role in predicting diabetes risk based on various factors.
